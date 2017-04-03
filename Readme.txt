@@ -22,6 +22,8 @@ examples of usage and they have no particular meaning in the sample files.
 Remember: you can edit the sample/template files the way you want, provided 
 you change their names.
 
+Toptesi.pdf provides documentation
+
 ===================================================
 
 Original sources: http://ctan.org/tex-archive/macros/latex/contrib/toptesi/
